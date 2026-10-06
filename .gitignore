@@ -1,0 +1,16 @@
+# Generated analysis results
+outputs/
+# Local environments and notebook caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+# Local machine settings and credentials
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
